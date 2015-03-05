@@ -1,0 +1,6 @@
+c:\users\mish\documents\visual studio 2010\Projects\SetConf\SetConf\bin\Debug\SetConf.exe
+c:\users\mish\documents\visual studio 2010\Projects\SetConf\SetConf\bin\Debug\SetConf.pdb
+c:\users\mish\documents\visual studio 2010\Projects\SetConf\SetConf\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+c:\users\mish\documents\visual studio 2010\Projects\SetConf\SetConf\obj\x86\Debug\SetConf.csproj.ResolveComReference.cache
+c:\users\mish\documents\visual studio 2010\Projects\SetConf\SetConf\obj\x86\Debug\SetConf.exe
+c:\users\mish\documents\visual studio 2010\Projects\SetConf\SetConf\obj\x86\Debug\SetConf.pdb
